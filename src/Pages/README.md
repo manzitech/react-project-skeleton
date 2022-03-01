@@ -8,7 +8,7 @@ The reward of keeping everything domain-focused instead of putting all your page
 
 Below is an example of how this folder might look
 
-/Pages
+    /Pages
         ├── /Authors
         │   ├── /AuthorsPage
         │   │   ├── AuthorsPage.js
